@@ -1,4 +1,7 @@
 
+giulia:
+	pdflatex giulia.tex 
+
 kanji:
 	pdflatex kanji.tex 
 
@@ -10,3 +13,4 @@ manifesto:
 
 carita:
 	pdflatex carita.tex 
+
